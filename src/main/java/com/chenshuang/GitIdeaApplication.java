@@ -9,7 +9,7 @@ public class GitIdeaApplication {
     public static void main(String[] args) {
         //SpringApplication.run(GitIdeaApplication.class, args);
         System.out.println("hello  git");
-        System.out.println("hello  git 1");
+        System.out.println("hello   git 1");
         System.out.println("hello  git 111");
         System.out.println("hello  git 2");
     }
