@@ -8,7 +8,7 @@ public class GitIdeaApplication {
 
     public static void main(String[] args) {
         //SpringApplication.run(GitIdeaApplication.class, args);
-        System.out.println("hello git");
+        System.out.println("hello  git");
     }
 
 }
