@@ -11,6 +11,7 @@ public class GitIdeaApplication {
         System.out.println("hello  git");
         System.out.println("hello  git 1");
         System.out.println("hello  git 111");
+        System.out.println("hello  git 2");
     }
 
 }
